@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src="https://ca.slack-edge.com/T9RULJBK9-U01K0EVH38R-f8d2c73f0dd3-512" className="App-logo" alt="Laura Bartha!" />
+        <h1>Laaaaaaaaaaaaaaaaaaaaaauuuuuuuuuuuuuuuuuuuuuurrrrrrrrrrrrrrrrraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</h1>
       </header>
     </div>
   );
