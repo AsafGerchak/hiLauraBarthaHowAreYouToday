@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hiLauraBarthaHowAreYouToday/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/hiLauraBarthaHowAreYouToday/static/js/main.6a078386.chunk.js",
+    "main.js.map": "/hiLauraBarthaHowAreYouToday/static/js/main.6a078386.chunk.js.map",
+    "runtime-main.js": "/hiLauraBarthaHowAreYouToday/static/js/runtime-main.d161fa3a.js",
+    "runtime-main.js.map": "/hiLauraBarthaHowAreYouToday/static/js/runtime-main.d161fa3a.js.map",
+    "static/js/2.e69166c0.chunk.js": "/hiLauraBarthaHowAreYouToday/static/js/2.e69166c0.chunk.js",
+    "static/js/2.e69166c0.chunk.js.map": "/hiLauraBarthaHowAreYouToday/static/js/2.e69166c0.chunk.js.map",
+    "static/js/3.c4a3f300.chunk.js": "/hiLauraBarthaHowAreYouToday/static/js/3.c4a3f300.chunk.js",
+    "static/js/3.c4a3f300.chunk.js.map": "/hiLauraBarthaHowAreYouToday/static/js/3.c4a3f300.chunk.js.map",
+    "index.html": "/hiLauraBarthaHowAreYouToday/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/hiLauraBarthaHowAreYouToday/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e69166c0.chunk.js.LICENSE.txt": "/hiLauraBarthaHowAreYouToday/static/js/2.e69166c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d161fa3a.js",
+    "static/js/2.e69166c0.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.6a078386.chunk.js"
+  ]
+}
